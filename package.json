@@ -1,0 +1,12 @@
+{
+	"type": "module",
+	"scripts": {
+		"test": "ava"
+	},
+	"devDependencies": {
+		"ava": "^5.3.1"
+	},
+	"dependencies": {
+		"bson": "^5.0.0"
+	}
+}
